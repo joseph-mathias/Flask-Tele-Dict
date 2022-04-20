@@ -1,4 +1,4 @@
-# Flask---Tele---Dict
+# Flask Telegram Dictictionary Bot
 For this example, we’ll build a Flask app that functions as a dictionary. Our app will receive an English word as a request and will respond with information about the word, such as its definition(s), an example, synonyms, and antonyms. For this application, we’ll utilize a free Dictionary API.
 # Flask project template
 
